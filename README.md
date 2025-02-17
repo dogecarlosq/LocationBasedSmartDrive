@@ -22,5 +22,7 @@ A 4-layer model is applied in this model, and the Architecture design diagram is
 3. LocalHost(It is just for tesing, can be deteled after applying on the Cloud.)
 
 Demonstrations:
+
 ![image](https://github.com/user-attachments/assets/467110ef-5e55-44dc-bd1b-107a8c72116f)
+
 ![image](https://github.com/user-attachments/assets/62dd33b9-9322-4f98-a88d-8a756533f2c2)
